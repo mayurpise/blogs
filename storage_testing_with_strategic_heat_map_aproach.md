@@ -60,9 +60,8 @@ Key aspects of system testing for enterprise storage include:
 
 ## Creating the Heat Map
 
-Align the properties of data with the types of testing in a matrix format. Grade each cell to reflect the importance of a particular test for a given property, ranging from 'Low' to 'High'. Here's an excerpt of the heat map focused on system testing:
+Align the properties of data with the types of testing in a matrix format. Grade each cell to reflect the importance of a particular test for a given property, ranging from 'Low' to 'High'.
 
-Heat Map for Enterprise Storage Testing
 
 Property / Test Type | Unit | API | Functional | System | Performance | Load | Stress | Security | Compatibility | Backup & Recovery | High Availability | Scalability | Replication & DR | Non-disruptive Operations | Integration | Compliance
 ---------------------|------|-----|------------|--------|-------------|------|--------|----------|---------------|-------------------|-------------------|-------------|-----------------|---------------------------|-------------|------------
