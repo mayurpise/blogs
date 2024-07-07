@@ -8,6 +8,8 @@ In the complex domain of enterprise storage and data management, ensuring the in
 
 A heat map is a visual tool that maps out the key properties of data against various types of tests, helping teams prioritize their testing efforts effectively and ensure all critical aspects of storage solutions are thoroughly evaluated.
 
+Let's have quick review of key properties of data, their importance, types of testing and their roles,
+
 ## Key Properties of Data and Their Importance
 
 1. **Integrity**: Ensures data is accurate, consistent, and trustworthy throughout its lifecycle.
